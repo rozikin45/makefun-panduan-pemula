@@ -101,7 +101,7 @@ README sebaiknya menjelaskan tujuan, cara menjalankan, batasan, dan tautan yang 
 Simpan perubahan dalam Git dan push ke GitHub. Catat commit yang akan dikirim; commit adalah versi tertentu, bukan sekadar keadaan terbaru yang masih berubah. Lalu dari direktori kit, bundel sesi yang menulis repository:
 
 ```sh
-node cli/makefun.mjs bundle --repo ../entry-saya --out transcripts.zip
+node cli/makefun.mjs bundle --repo ../entry-saya --out transcripts.tar.gz
 ```
 
 Ganti `../entry-saya` dengan lokasi clone milikmu. Jalankan `bundle --dry-run` lebih awal bila ingin memeriksa apakah sesi ditemukan. Jika alat meminta metadata model, versi harness, effort, atau konfigurasi tambahan, isi berdasarkan informasi sebenarnya. Jangan menebak hanya supaya pemeriksaan menjadi hijau.
@@ -111,7 +111,7 @@ Kit meredaksi beberapa kredensial dan data pribadi, tetapi kamu tetap bertanggun
 Jalankan pemeriksaan entry sebelum menghabiskan kuota submit:
 
 ```sh
-node cli/makefun.mjs check --kit . --repo ../entry-saya --transcripts transcripts.zip
+node cli/makefun.mjs check --kit . --repo ../entry-saya --transcripts transcripts.tar.gz
 ```
 
 Baca setiap kegagalan beserta sarannya. Pemeriksaan struktur entry bukan prediksi peringkat. Perbaiki file, buat commit baru, dan pastikan bundle masih mencakup pekerjaan terakhir sebelum mencoba lagi.

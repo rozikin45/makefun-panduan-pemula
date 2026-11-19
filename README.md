@@ -6,8 +6,8 @@
 
 **Punya AI coding agent, tetapi belum pernah ikut bounty? Mulai di sini.** Panduan berbahasa Indonesia ini membantu kamu membuat akun, memilih tugas yang masuk akal, membangun karya dengan agen, dan mengirim entry pertama tanpa mengira bahwa hadiah pasti didapat.
 
-> **Mau mencoba? [Daftar lewat tautan referral saya](https://make.fun/r/roiz-00).**
-> Kode: `roiz-00`. Ini tautan referral milik saya; saya dapat memperoleh imbalan jika akun baru memenuhi ketentuan make.fun. Tidak ada janji kamu akan menang atau mendapat penghasilan tertentu.
+> **Mau mencoba? [Daftar lewat tautan referral saya](https://make.fun/r/xv1e6sta).**
+> Kode: `xv1e6sta`. Ini tautan referral milik saya; saya dapat memperoleh imbalan jika akun baru memenuhi ketentuan make.fun. Tidak ada janji kamu akan menang atau mendapat penghasilan tertentu.
 
 **Rute singkat:** buat akun → baca aturan → sambungkan agen → bangun → cek → submit → perbaiki → klaim jika mendapat tempat berhadiah.
 
@@ -43,7 +43,7 @@ Jangan menaruh seed phrase, private key, API key, atau file kredensial di reposi
 
 ## 1. Buat akun dan kenali profilmu
 
-Buka [make.fun melalui referral saya](https://make.fun/r/roiz-00), lalu gunakan **Sign in**. Pilihan masuk dapat mencakup GitHub, Google, Apple, Discord, atau dompet Solana. Ikuti pilihan yang tersedia di layar. Memilih GitHub memudahkan ketika nantinya kamu perlu memastikan repository dimiliki akun yang sesuai.
+Buka [make.fun melalui referral saya](https://make.fun/r/xv1e6sta), lalu gunakan **Sign in**. Pilihan masuk dapat mencakup GitHub, Google, Apple, Discord, atau dompet Solana. Ikuti pilihan yang tersedia di layar. Memilih GitHub memudahkan ketika nantinya kamu perlu memastikan repository dimiliki akun yang sesuai.
 
 Sesudah masuk, buka profil melalui avatar. Periksa username, gambar profil, dan bio agar akun mudah dikenali. Jika kamu masuk lewat layanan lain, hubungkan GitHub ketika bounty memerlukannya. Cocokkan akun tertaut dengan pemilik repository yang akan dikirim; jangan baru mengetahui perbedaannya setelah karya selesai.
 
@@ -168,7 +168,7 @@ Bagikan panduan kepada orang yang memang bertanya tentang AI agent atau coding b
 
 Khusus **Bring the humans again**, skor berasal dari signup yang terikat ke kode referral dalam jendela kompetisi dan kemudian lolos pemeriksaan manusia oleh pihak platform. Angka klik, bintang GitHub, dan jumlah pesan promosi bukan skornya. Pemeriksaan akhir berlanjut sampai 30 jam setelah tenggat; angka sementara belum tentu hasil final. Repository juga harus tetap publik, tetap milik pemilik yang sama, dan tetap memuat kode referral ketika diperiksa kembali. Baca aturan langsung sebelum mengandalkan ringkasan ini.
 
-Jika panduan ini membantu, kamu dapat [mendaftar dengan referral roiz-00](https://make.fun/r/roiz-00). Jika tidak ingin memakai referral, buka [make.fun langsung](https://make.fun/). Pilih karena kamu ingin mencoba platformnya, bukan karena ada janji uang mudah.
+Jika panduan ini membantu, kamu dapat [mendaftar dengan referral xv1e6sta](https://make.fun/r/xv1e6sta). Jika tidak ingin memakai referral, buka [make.fun langsung](https://make.fun/). Pilih karena kamu ingin mencoba platformnya, bukan karena ada janji uang mudah.
 
 ## Sumber dan cara memakai panduan
 
@@ -183,4 +183,4 @@ Untuk membaca, cukup buka README ini di GitHub. Tidak ada aplikasi tambahan yang
 
 ---
 
-<sub>Panduan komunitas independen, bukan situs resmi make.fun. Tautan referral: https://make.fun/r/roiz-00 · kode `roiz-00`.</sub>
+<sub>Panduan komunitas independen, bukan situs resmi make.fun. Tautan referral: https://make.fun/r/xv1e6sta · kode `xv1e6sta`.</sub>
